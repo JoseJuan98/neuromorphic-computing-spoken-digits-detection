@@ -3,7 +3,7 @@
 Spiking Neural Network for classification of spoken digits using an event-based dataset.
 
 <div style="text-align: center">
-    <img src="docs/img/digit_samples.png" width="45%" height="45%">
+    <img src="docs/img/digit_samples.png" width="65%" height="65%">
     <p style="text-align: center"> Figure 1: Samples of the spoken digits dataset </p>
 </div>
 
