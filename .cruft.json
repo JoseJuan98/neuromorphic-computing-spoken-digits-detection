@@ -1,0 +1,18 @@
+{
+  "template": "git@github.com:JoseJuan98/data-science-template.git",
+  "commit": "d00cf1e5f050a1a5835c51f3384bbe2411e839e4",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Neuromorphic Computing for Spoken Digits Detection",
+      "repo_name": "neuromorphic-computing-spoken-digits-detection",
+      "author_name": "(I) josejuan98",
+      "description": "Spiking Neural Network for classification of spoken digits using an event-based dataset.",
+      "open_source_license": "MIT",
+      "python_version": "3.11",
+      "_template": "git@github.com:JoseJuan98/data-science-template.git",
+      "_commit": "d00cf1e5f050a1a5835c51f3384bbe2411e839e4"
+    }
+  },
+  "directory": null
+}
