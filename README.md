@@ -2,6 +2,11 @@
 
 Spiking Neural Network for classification of spoken digits using an event-based dataset.
 
+<div style="text-align: center">
+    <img src="docs/img/spiking_neuron.png" width="45%" height="45%">
+    <p style="text-align: center"> Figure 1: Samples of the spoken digits dataset </p>
+</div>
+
 ## Setup
 
 For the setup of the project follow the instructions in the [SETUP.md](docs/SETUP.md) file.
