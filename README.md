@@ -6,7 +6,7 @@ This dataset contains approximately 10,000 high-quality, studio-aligned recordin
 Notably, two of these speakers are only present in the test set. Each digit is represented as spikes across 700 channels, 
 which were generated using [Lauscher](https://github.com/electronicvisions/lauscher), a neuromorphic [cochlea](https://iopscience.iop.org/article/10.1088/2634-4386/ac4a83#nceac4a83s47) software model
 
-<div style="text-align: center">
+<div align="center">
     <img src="docs/img/digit_samples.png" width="65%" height="65%">
     <p style="text-align: center"> Figure 1: Samples of Spoken Digits</p>
 </div>
