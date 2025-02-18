@@ -46,9 +46,7 @@ if __name__ == "__main__":
         long_description_content_type="text/markdown",
         packages=["common"] + setuptools.find_packages(where="src"),
         package_dir={"": "src"},
-        package_data={
-            "common": ["objects/**/*", "data/**/*"]
-        },
+        package_data={"common": ["objects/**/*", "data/**/*"]},
         platforms=["unix", "linux", "cygwin", "win32"],
         python_requires=">=3.11",
         install_requires=get_req(file_path=project_path / "requirements.txt"),
